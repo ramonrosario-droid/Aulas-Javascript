@@ -1,0 +1,1 @@
+console.log("Ola Brasil:Palameira não tem mundial , Vai Corinthiians");
